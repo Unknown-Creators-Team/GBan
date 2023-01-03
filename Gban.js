@@ -517,5 +517,6 @@ export const Gban = [
     { name: "a0marun", reason: "CommandBlockExploit", deviceSessionId: "5b029e24-c126-3baa-88a3-e52c2ffced58", uuid: "c3c9e58f-bd0c-3f78-a02c-1d1dbf7637b6" },
     { name: "kansyucyo546952", reason: "Crasher", deviceSessionId: "86f7406c-2998-3cb6-b032-b1a0f228db25", uuid: "f42734b7-9d24-3fdd-bb2b-59b32c56da06" },
     { name: "Anthony4933", reason: "Crasher", deviceSessionId: "6847eeae-6556-3b72-99a2-149dc0a2d747", uuid: "3045dde7-94ab-3a60-82cd-25e01fc28a8c" },
-    { name: "Olanh fm", reason: "CommandBlockExploit", deviceSessionId: "2324326d-58d0-3254-9f9c-b95c98384a5e", uuid: "cb631d95-1609-3fd6-9539-fda068ac6cf2" }
+    { name: "Olanh fm", reason: "CommandBlockExploit", deviceSessionId: "2324326d-58d0-3254-9f9c-b95c98384a5e", uuid: "cb631d95-1609-3fd6-9539-fda068ac6cf2" },
+    { name: "mizu12165338", reason: "CommandBlockExploit", deviceSessionId: null, uuid: null },
 ]
