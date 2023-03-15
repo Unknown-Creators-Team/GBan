@@ -102,7 +102,7 @@ export const Gban = [
     { name: "PINKhappyBEAR9", reason: "hacking", deviceSessionId: null, uuid: null },
     { name: "HandsomRain12", reason: "hacking", deviceSessionId: null, uuid: null },
     { name: "liker57889", reason: "hacking", deviceSessionId: null, uuid: null },
-    { name: "threeMario", reason: "hacking", deviceSessionId: null, uuid: null },
+    // threeMario was unbaned because he was falsely banned.
     { name: "steve5059", reason: "hacking", deviceSessionId: null, uuid: null },
     { name: "PointedAlpaca71", reason: "hacking", deviceSessionId: null, uuid: null },
     { name: "hennakao9711", reason: "hacking", deviceSessionId: null, uuid: null },
