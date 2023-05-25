@@ -2,7 +2,7 @@
  * Global ban list for MCBE
  * @license MIT
  * @author Nano
- * @version 1.1.1
+ * @version 1.1.2
  */
 export default
 [
@@ -520,4 +520,5 @@ export default
     { name: "Anthony4933", reason: "Crasher", deviceSessionId: "6847eeae-6556-3b72-99a2-149dc0a2d747", uuid: "3045dde7-94ab-3a60-82cd-25e01fc28a8c" },
     { name: "Olanh fm", reason: "CommandBlockExploit", deviceSessionId: "2324326d-58d0-3254-9f9c-b95c98384a5e", uuid: "cb631d95-1609-3fd6-9539-fda068ac6cf2" },
     { name: "mizu12165338", reason: "CommandBlockExploit", deviceSessionId: null, uuid: null },
+    { name: "Karon8442", reason: "CommandBlockExploit", deviceSessionId: "faeb68a0-ab08-3eba-ac69-9f21ba787fce", uuid: "c466f7e4-d4e3-36cd-8fff-fc57d8951695" },
 ]
