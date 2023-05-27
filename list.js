@@ -1,10 +1,3 @@
-/**
- * Global ban list for MCBE
- * @license MIT
- * @author Nano
- * @version 1.1.2
- */
-export default
 [
     { name: "yusuke0557", reason: "hacking", deviceSessionId: null, uuid: null },
     { name: "HASIMOTO6843", reason: "hacking", deviceSessionId: null, uuid: null },
