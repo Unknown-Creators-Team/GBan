@@ -2679,5 +2679,12 @@
         "deviceSessionId": "faeb68a0-ab08-3eba-ac69-9f21ba787fce",
         "uuid": "c466f7e4-d4e3-36cd-8fff-fc57d8951695",
         "xuid": "2535441677631456"
+    },
+    {
+        "name": "YY12256069",
+        "reason": "TEST",
+        "deviceSessionId": "181134bb-48f7-3c5a-899d-1e77b28f9e97",
+        "uuid": "9e620c38-ddde-3a5d-a71b-ee167e8fa0f1",
+        "xuid": "2535423530592634"
     }
 ]
