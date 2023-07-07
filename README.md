@@ -1,7 +1,9 @@
 # GBan
 マインクラフト統合版の既知のハッカーをリストしたリポジトリです。
+
 ## 使い方
-`example1.js`と`example2.js`を参考にしてデータを取得してください。
+[example1.js](/example1.js)と[example2.js](/example2.js)を参考にしてデータを取得してください。
+
 ## データの形式
 ```json
 [
@@ -14,6 +16,7 @@
     }
 ]
 ```
+
 ## データの追加方法
 [Issues](https://github.com/Unknown-Creators-Team/GBan/issues/)にて`add player`ラベルをつけて申請してください。
 ### 申請時に必要なデータ
@@ -23,6 +26,7 @@
 - デバイスセッションID(オプション)
 - UUID(オプション)
 - XUID(オプション)
+
 ## データの削除方法
 [Issues](https://github.com/Unknown-Creators-Team/GBan/issues/)にて`remove player`ラベルをつけて申請してください。
 ### 申請時に必要なデータ
