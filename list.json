@@ -2690,15 +2690,15 @@
     {
         "name": "ThisBooch824163",
         "reason": "Fly",
-        "deviceSessionId": "null",
-        "uuid": "null",
+        "deviceSessionId": null,
+        "uuid": null,
         "xuid": "2535467829472571"
     },
     {
         "name": "Sakuty0021",
         "reason": "Crasher",
-        "deviceSessionId": "null",
-        "uuid": "null",
+        "deviceSessionId": "dc8d9fb0-a67b-3a9a-a942-271f757c7c8d",
+        "uuid": null,
         "xuid": "2535471501385085"
     }
 ]
