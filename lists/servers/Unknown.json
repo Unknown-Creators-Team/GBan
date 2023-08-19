@@ -1,0 +1,20 @@
+[
+    {
+        "name": "lu4264",
+        "reason": "Teleport",
+        "xuid": "2535466484732811",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Unknown",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/b3885b90-c6cf-4922-bf95-cb5a0bef1dd4"
+    },
+    {
+        "name": "TenMite36115759",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535434536224544",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Unknown",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/dd2826d3-aa18-4b79-9d6f-f82aeeff784a"
+    }
+]

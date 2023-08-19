@@ -1,0 +1,56 @@
+[
+    {
+        "name": "jetskispeed",
+        "reason": "Crasher",
+        "xuid": "2535411452954098",
+        "deviceSessionId": "8fa76914-1134-32fe-8f89-340e9bd3d276",
+        "uuid": null,
+        "source": "arutaka server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/486d5b30-d5b0-45ea-b622-9a66268e4a1a"
+    },
+    {
+        "name": "PEXkoukunn",
+        "reason": "Spammer",
+        "xuid": "2535459105874433",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "arutaka server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/3bace161-a4c7-49fb-89b7-0f04bebcf1f0"
+    },
+    {
+        "name": "Sakuty0021",
+        "reason": "Crasher",
+        "xuid": "2535471501385085",
+        "deviceSessionId": "dc8d9fb0-a67b-3a9a-a942-271f757c7c8d",
+        "uuid": null,
+        "source": "arutaka server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/2cc7bfeb-01d6-4a24-8600-01ff417f6252"
+    },
+    {
+        "name": "tubuhiro",
+        "reason": "BadEnchants",
+        "xuid": "2535422751302221",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "arutaka server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/7348d75e-cc06-4129-8aa4-1f357b930ef1"
+    },
+    {
+        "name": "XxPvPxX",
+        "reason": "Nuker",
+        "xuid": "2533274907534276",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "arutaka server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f5221cf2-032a-4d2a-9a99-8741bb8bfac1"
+    },
+    {
+        "name": "Yusan3016",
+        "reason": "Crasher",
+        "xuid": "2535446400726238",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "arutaka server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/974c2343-cb92-4b23-a32d-54c913e82cfc"
+    }
+]
