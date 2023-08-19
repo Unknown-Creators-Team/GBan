@@ -9,22 +9,40 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/dcdf5ea7-6e56-4e43-84f5-89d77bea1d66"
     },
     {
+        "name": "alex00123030",
+        "reason": "IllegalItems",
+        "xuid": "2535449351501887",
+        "deviceSessionId": "fdfa140e-03ee-373b-966f-de5215603f95",
+        "uuid": "9fa77b8b-552e-3d8b-8534-5585feba8056",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/dba750b9-cb86-493c-a86f-eebbe95d6f8f"
+    },
+    {
         "name": "anime to1053",
         "reason": "CommandBlockExploit",
         "xuid": "2535424485071479",
-        "deviceSessionId": null,
-        "uuid": null,
+        "deviceSessionId": "ab349a99-2ebe-316b-993d-4c76d2dcbf5e",
+        "uuid": "2755061d-5eb8-3b60-b795-4e237b70ffb9",
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/79a6db7b-75d3-47c3-998a-1ba2b2666591"
     },
     {
         "name": "asuma6",
-        "reason": "hacking",
+        "reason": "Nuker",
         "xuid": "2535442340785327",
         "deviceSessionId": null,
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ca52adc1-d93d-4bf2-9f54-d067a0123f9d"
+    },
+    {
+        "name": "Dream09e",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535417806635345",
+        "deviceSessionId": "27453364-4803-39fc-a2d6-d96f6b76e021",
+        "uuid": "e9de5c99-1fef-3d01-81e1-d85383ce64ec",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a97780bb-bb63-462c-bbfd-758f912ea9e0"
     },
     {
         "name": "FFX777",
@@ -46,16 +64,16 @@
     },
     {
         "name": "ika286desuga",
-        "reason": "hacking",
+        "reason": "Nuker",
         "xuid": "2535466127415727",
-        "deviceSessionId": null,
-        "uuid": null,
+        "deviceSessionId": "79735f3e-75a9-3d44-8d3e-63c34881cacb",
+        "uuid": "2f8eea96-cefd-35cc-9eb5-813581f67470",
         "source": "TN Server",
-        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ecc0918d-b82d-43de-b3a1-09199152ec99"
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/cf332874-ae6e-44b9-b3b4-34124e632202"
     },
     {
         "name": "imageman309",
-        "reason": "hacking",
+        "reason": "Nuker",
         "xuid": "2535431894061098",
         "deviceSessionId": null,
         "uuid": null,
@@ -75,10 +93,10 @@
         "name": "KOTENATU",
         "reason": "Nuker",
         "xuid": "2535420519140659",
-        "deviceSessionId": null,
-        "uuid": null,
+        "deviceSessionId": "cd60bf20-75d0-3d6e-ac6e-0f56649131e0",
+        "uuid": "705f007e-8efa-32ac-850d-712606008306",
         "source": "TN Server",
-        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/5da7c32b-8929-4ccc-929a-ab7999bfa89b"
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f4660a95-ed64-4911-ad12-73ddd3760ec2"
     },
     {
         "name": "mikadukiyuu0919",
@@ -90,13 +108,22 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/d84c4764-1e10-4a40-8211-b46654461894"
     },
     {
+        "name": "MIS SHADER4329",
+        "reason": "Nuker",
+        "xuid": "2535412082402621",
+        "deviceSessionId": "18d4079f-e1bc-3e20-96c5-6921660659d7",
+        "uuid": "ceca8dfd-571f-3041-a06b-5b23b2aad316",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/c69a38e9-6547-4e39-8cd2-ed07fd2bcf2b"
+    },
+    {
         "name": "misosoupkure",
         "reason": "Nuker",
         "xuid": "2535432567130094",
-        "deviceSessionId": null,
-        "uuid": null,
+        "deviceSessionId": "ed625a58-6224-3722-bbf1-30bb9119b783",
+        "uuid": "ed993454-cb4d-3805-8275-ec8ad142e508",
         "source": "TN Server",
-        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/150e7244-d2a7-4e09-b991-bc16a1fcb4cb"
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/3d360aaf-61b7-41ef-b5c7-ba4ec19bc1ef"
     },
     {
         "name": "mochi mochi 888",
@@ -118,7 +145,7 @@
     },
     {
         "name": "NewDaichi",
-        "reason": "hacking",
+        "reason": "Nuker",
         "xuid": "2535428171350962",
         "deviceSessionId": null,
         "uuid": null,
@@ -145,7 +172,7 @@
     },
     {
         "name": "pokotinmaru",
-        "reason": "hacking",
+        "reason": "Nuker",
         "xuid": "2535426160132707",
         "deviceSessionId": null,
         "uuid": null,
@@ -172,7 +199,7 @@
     },
     {
         "name": "riku390",
-        "reason": "hacking",
+        "reason": "Movement",
         "xuid": "2535459269762777",
         "deviceSessionId": null,
         "uuid": null,
@@ -199,7 +226,7 @@
     },
     {
         "name": "StipuledVirus1",
-        "reason": "hacking",
+        "reason": "CommandBlockExploit",
         "xuid": "2533274981502848",
         "deviceSessionId": null,
         "uuid": null,
@@ -228,10 +255,19 @@
         "name": "TK31493",
         "reason": "CommandBlockExploit",
         "xuid": "2535448864509776",
-        "deviceSessionId": null,
-        "uuid": null,
+        "deviceSessionId": "63e6efc6-112c-344f-8e2d-d5c58fb7e6e2",
+        "uuid": "cc5a2166-f588-3c1d-9f36-f40f5742a016",
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ffaa2b7b-f1fa-4f87-bef4-72477c374e11"
+    },
+    {
+        "name": "Toto7562",
+        "reason": "Nuker",
+        "xuid": "2535456982546480",
+        "deviceSessionId": "69e91212-9932-3713-b206-d5960ea75abf",
+        "uuid": "39929182-f0fd-3e4a-8ecf-3da04f57a3ad",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/707c4a1e-77cd-4793-a51a-93e6bac03aec"
     },
     {
         "name": "unaa2007",

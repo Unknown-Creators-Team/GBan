@@ -1,5 +1,14 @@
 [
     {
+        "name": "aiueo0106",
+        "reason": "Crasher",
+        "xuid": "2535422454196166",
+        "deviceSessionId": "85c4ae1b-4a92-3b47-9714-0bfdd6397d53",
+        "uuid": "c4da909b-c73e-36a7-9829-ff02c9fd1463",
+        "source": "iruka30 server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/4d8f666e-34e3-48e1-b75a-aa78602bfaf3"
+    },
+    {
         "name": "Anthony4933",
         "reason": "Crasher",
         "xuid": "2535470462978561",
@@ -7,6 +16,15 @@
         "uuid": "3045dde7-94ab-3a60-82cd-25e01fc28a8c",
         "source": "iruka30 server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/8fdfb285-3a01-4b38-8aba-c0c41b4d952e"
+    },
+    {
+        "name": "Dark pote9476",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535439068332395",
+        "deviceSessionId": "859161f4-76d5-32dd-b916-9666ec147cfe",
+        "uuid": "9fce632f-ff15-3a42-afba-a21f7ac1554a",
+        "source": "iruka30 server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/2ef11091-8a5c-4202-94a4-d88edb23ddf4"
     },
     {
         "name": "FartherHat1634",
@@ -36,6 +54,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/529e0634-d6dd-4922-87e6-b514dad37b36"
     },
     {
+        "name": "herobrine664802",
+        "reason": "Crasher",
+        "xuid": "2533274921136625",
+        "deviceSessionId": "5558e1ba-f2fc-38e1-abb8-18ff1da9a16f",
+        "uuid": "07247d8e-7482-37b4-9afa-a56119d08e17",
+        "source": "iruka30 server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/157ef42c-e31f-425f-a0b7-2fd3567291bc"
+    },
+    {
         "name": "kansyucyo546952",
         "reason": "Crasher",
         "xuid": "2535405826528503",
@@ -46,7 +73,7 @@
     },
     {
         "name": "Meltoria666",
-        "reason": "Illegal Items",
+        "reason": "IllegalItems",
         "xuid": "2535424825189455",
         "deviceSessionId": null,
         "uuid": null,

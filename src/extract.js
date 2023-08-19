@@ -5,6 +5,12 @@ const GBan = require("../lists/all.json");
 
 fs.writeFileSync("./list.json", JSON.stringify(GBan, null, 4));
 
+// fs.mkdirSync("./lists/name");
+// fs.mkdirSync("./lists/xuid");
+// fs.mkdirSync("./lists/deviceSessionId");
+// fs.mkdirSync("./lists/uuid");
+// fs.mkdirSync("./lists/servers");
+
 // name
 
 const name = GBan.map(banned => banned.name);
