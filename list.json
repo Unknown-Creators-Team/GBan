@@ -81,6 +81,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/8fdfb285-3a01-4b38-8aba-c0c41b4d952e"
     },
     {
+        "name": "AntiStarling473",
+        "reason": "Nuker",
+        "xuid": "2535468911673242",
+        "deviceSessionId": "f96221e1-330d-3ab4-94fe-994b9a76f3f7",
+        "uuid": "de2b2511-1c52-38c3-b959-773cc1612dfa",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/af109813-00d4-41fd-a6f1-f88aab0c94f0"
+    },
+    {
         "name": "asuma6",
         "reason": "Nuker",
         "xuid": "2535442340785327",
@@ -88,6 +97,42 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ca52adc1-d93d-4bf2-9f54-d067a0123f9d"
+    },
+    {
+        "name": "BlandSquirrel48",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535413236982127",
+        "deviceSessionId": "40b4eb46-d9d4-3f2b-abba-8b9d582acaa9",
+        "uuid": "6b3d4f6c-1714-3328-9384-833839c34683",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/62c5da6e-2f89-4958-aaeb-a97bebb19e4d"
+    },
+    {
+        "name": "BlessingSumo858",
+        "reason": "Fly",
+        "xuid": "2535433757760750",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "りおさば",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/d0236590-01df-47f4-a079-736898dcfbaf"
+    },
+    {
+        "name": "BossLamb7162256",
+        "reason": "Crasher",
+        "xuid": "2535411648753082",
+        "deviceSessionId": "47c9774a-c55b-4a5b-975c-d106580eef93",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/159b4187-177c-41de-ad67-5f7475080958"
+    },
+    {
+        "name": "BOT mumei 23",
+        "reason": "IllegalItems",
+        "xuid": "2535429629147235",
+        "deviceSessionId": "fa157827-4130-3f78-be95-6ece2b83ca8c",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/515c785c-7d0e-403d-bd6d-664cb4726b46"
     },
     {
         "name": "brack dream",
@@ -126,6 +171,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/2ef11091-8a5c-4202-94a4-d88edb23ddf4"
     },
     {
+        "name": "Dia8500 ",
+        "reason": "Nuker",
+        "xuid": "2535438195553500",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/e91ffcb4-4007-4402-87b8-5ff2786b3550"
+    },
+    {
         "name": "Dream09e",
         "reason": "CommandBlockExploit",
         "xuid": "2535417806635345",
@@ -142,6 +196,24 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/307f4595-3e3f-432b-8daa-c1ada98551c9"
+    },
+    {
+        "name": "EarthColt468824",
+        "reason": "Nuker",
+        "xuid": "2535431679415909",
+        "deviceSessionId": "42aca7da-0463-442e-a914-44f6c1124e58",
+        "uuid": "3d8b772c-abe6-33d7-a613-04ed7df07763",
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/721e17ff-757a-4049-bc0e-cd17abb8b797"
+    },
+    {
+        "name": "EastBurrito2025",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535433150505729",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/0dec5d58-cd85-4028-a4c3-65839b53d0a7"
     },
     {
         "name": "EnDerEzYq1447",
@@ -171,6 +243,24 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/7f65cad8-cfd9-47e3-b849-00df8ff16d58"
     },
     {
+        "name": "FinalMudkip85",
+        "reason": "Nuker",
+        "xuid": "2535444696959723",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/88078343-e7fa-4386-9bb6-21435b8f86e6"
+    },
+    {
+        "name": "FireClover51345",
+        "reason": "IllegalItems",
+        "xuid": "2535432683955086",
+        "deviceSessionId": "0113e630-4bd5-340c-be5b-a0552fa2e578",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/e1b5fcfb-2a0e-4546-8401-99c95aee813d"
+    },
+    {
         "name": "giyokundaK",
         "reason": "CommandBlockExploit",
         "xuid": "2535419903963775",
@@ -187,6 +277,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/736ea85a-6b98-470c-b9e2-abe5f593aa2d"
+    },
+    {
+        "name": "hanamitio4444",
+        "reason": "Nuker",
+        "xuid": "2535451111089234",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/65aca9a5-8b82-4bc5-a53a-9564d7a3da4b"
     },
     {
         "name": "hannkyuu0417",
@@ -214,6 +313,15 @@
         "uuid": "07247d8e-7482-37b4-9afa-a56119d08e17",
         "source": "iruka30 server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/157ef42c-e31f-425f-a0b7-2fd3567291bc"
+    },
+    {
+        "name": "Hikaru30634",
+        "reason": "IllegalItems",
+        "xuid": "2535464220501576",
+        "deviceSessionId": "d1e99f75-97a3-3cea-baee-5fb18acc8d64",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/2942d430-b5e2-45de-ba8d-3139216451a3"
     },
     {
         "name": "HumdredCow72",
@@ -270,6 +378,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/011c666c-1b0d-4c47-a700-e0e59bdccf66"
     },
     {
+        "name": "Ishan 7773624",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535448159554856",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/cea7e196-758a-4416-adae-73edf527da05"
+    },
+    {
         "name": "jetskispeed",
         "reason": "Crasher",
         "xuid": "2535411452954098",
@@ -277,6 +394,15 @@
         "uuid": null,
         "source": "arutaka server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/486d5b30-d5b0-45ea-b622-9a66268e4a1a"
+    },
+    {
+        "name": "jeyuu08274",
+        "reason": "Crasher",
+        "xuid": "2535452681097824",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a9fd603e-0354-4203-890a-890a6a5fc9b2"
     },
     {
         "name": "jinsora5984",
@@ -295,6 +421,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/4931f0f3-4713-492b-aff0-18e2d45a8377"
+    },
+    {
+        "name": "JUNmaster108",
+        "reason": "Nuker",
+        "xuid": "2535433928811229",
+        "deviceSessionId": "7441a4ad-2208-3551-a628-4ed8274099fc",
+        "uuid": "12b94000-26ac-37a4-a4a9-78665d84b93d",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/1b78bd1c-b38c-494c-8459-d5ace35684b4"
     },
     {
         "name": "kamekkixi",
@@ -324,6 +459,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f2fbee0a-6186-43df-89f0-221943b56248"
     },
     {
+        "name": "kazuki ziba",
+        "reason": "Nuker",
+        "xuid": "2535440196186416",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/7d2a16e2-cc5d-4275-b372-068db781854a"
+    },
+    {
         "name": "kishigaya sutsu",
         "reason": "Nuker",
         "xuid": "2535427888342497",
@@ -331,6 +475,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/8b0fec2d-2096-4daa-b726-97591f04a242"
+    },
+    {
+        "name": "kizaki0808",
+        "reason": "IllegalItems",
+        "xuid": "2535412158270199",
+        "deviceSessionId": "326714ad-40ec-3735-86f2-b94ed8b2f65c",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/8d205276-6d87-4477-a940-489adc350831"
     },
     {
         "name": "koil V0",
@@ -387,6 +540,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f3d741cd-3292-44b8-ae42-ec3e9cd776f2"
     },
     {
+        "name": "LeanGrain434742",
+        "reason": "Nuker",
+        "xuid": "2535445229634435",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a76734ae-003a-4606-87bc-7a5c1c9cc829"
+    },
+    {
         "name": "lu4264",
         "reason": "Teleport",
         "xuid": "2535466484732811",
@@ -396,6 +558,24 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/b3885b90-c6cf-4922-bf95-cb5a0bef1dd4"
     },
     {
+        "name": "mabo papa0906",
+        "reason": "Nuker",
+        "xuid": "2535429999292744",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ef87557b-fba1-443e-8539-4d78be0b0c2e"
+    },
+    {
+        "name": "maikura121209",
+        "reason": "IllegalItems",
+        "xuid": "2535465024926430",
+        "deviceSessionId": "8d577333-fc91-329b-8b33-c1992d2e4f99",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a4278a81-5326-4ccf-8153-d2135489921a"
+    },
+    {
         "name": "masa1145147410",
         "reason": "Nuker",
         "xuid": "2535461952029396",
@@ -403,6 +583,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/3dcbccf8-9a13-4dbd-ac3b-e224305fcab2"
+    },
+    {
+        "name": "masato10208798",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535427050747305",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/d6f0bd37-577b-4e0f-ad8e-92721b8d5b0c"
     },
     {
         "name": "Meltoria666",
@@ -477,6 +666,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ab740fb7-a7f7-49f1-b92b-687f1a44741e"
     },
     {
+        "name": "mochi9626",
+        "reason": "Nuker",
+        "xuid": "2535446820192364",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/21664c5a-5ae8-45be-9066-71fa0adfd286"
+    },
+    {
         "name": "Mustardapple984",
         "reason": "Spammer",
         "xuid": "2535410477742088",
@@ -486,6 +684,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/719cf96d-a0b2-4629-a9e7-44ff77550ed5"
     },
     {
+        "name": "N1GHTMARESS9198",
+        "reason": "Nuker",
+        "xuid": "2535451959702376",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/615de5a7-68e5-43ec-8754-2340c6f71724"
+    },
+    {
         "name": "NackerGameJP",
         "reason": "Spammer",
         "xuid": "2535426653081717",
@@ -493,6 +700,33 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/7a622f15-8653-45ef-8794-f31ef2d09235"
+    },
+    {
+        "name": "Naeemulgamer",
+        "reason": "IllegalItems",
+        "xuid": "2535413673377190",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/07b54564-852c-4e06-b07e-321b1d10f627"
+    },
+    {
+        "name": "nagi2907",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535454229249108",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ed9bf933-2d2f-470f-bf45-1f376a845471"
+    },
+    {
+        "name": "nameko1010",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535425824571921",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/b88ba75d-94ac-4aa3-aa00-719b62637e0a"
     },
     {
         "name": "nappunkun",
@@ -540,6 +774,33 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/4b404c14-272c-4dd7-aede-0f11398d38b8"
     },
     {
+        "name": "NuncleCorn",
+        "reason": "IllegalItems",
+        "xuid": "2533274801268551",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/4e32d150-71b4-4893-9ab9-e16515a861c1"
+    },
+    {
+        "name": "oharudao6491",
+        "reason": "Nuker",
+        "xuid": "2535461320645902",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/7cee7b8f-74d1-4875-a5f5-a427e8f32a01"
+    },
+    {
+        "name": "Opk88",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535430271500147",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/fde9712d-4afa-4f08-9d22-a3f62871651b"
+    },
+    {
         "name": "owo0303",
         "reason": "IllegalItems",
         "xuid": "2535450427209480",
@@ -568,12 +829,12 @@
     },
     {
         "name": "PitiedNickel242",
-        "reason": "Nuker",
+        "reason": "Crasher",
         "xuid": "2535447768850241",
-        "deviceSessionId": null,
+        "deviceSessionId": "dba4a466-99dd-37fc-ba16-7543b84c5d70",
         "uuid": null,
-        "source": "Happiness Balloon Community",
-        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a1cb61fe-9390-46d0-b3fa-47880250a9d0"
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/1ee28a2a-8fc1-48f7-b953-eacbcfda4cd9"
     },
     {
         "name": "PointedAlpaca71",
@@ -603,6 +864,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/1ea34878-1f9b-44af-b743-b99eee5a7aba"
     },
     {
+        "name": "RAHULGAMEROP630",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535423271826487",
+        "deviceSessionId": "f26091568e6f4fca98177578c7f2a605",
+        "uuid": "f765608f-f7b7-3b27-8b86-577a8430888f",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/d0327e63-4ea8-4cdf-9aef-806d699efe4e"
+    },
+    {
         "name": "RdstnMstr301",
         "reason": "CommandBlockExploit",
         "xuid": "2535428063971421",
@@ -621,6 +891,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a1e7e91a-a62b-4600-ac26-e3bd0f434e93"
     },
     {
+        "name": "reimu122",
+        "reason": "IllegalItems",
+        "xuid": "2535421742525815",
+        "deviceSessionId": "67dd5940-e67f-3ceb-b2ef-e52ba417ef97",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/b28efca8-e904-448e-b1d7-06c8481035c2"
+    },
+    {
         "name": "Relond213",
         "reason": "Crasher",
         "xuid": "2535455969763962",
@@ -628,6 +907,15 @@
         "uuid": "3e824c9b-b73b-3577-af60-c7634a17c61f",
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/8fa430ed-3624-4061-94e3-7171aa32caad"
+    },
+    {
+        "name": "REM717",
+        "reason": "Nuker",
+        "xuid": "2535460049253928",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/917ec09f-f9c2-4959-bb3b-9d6e70d85659"
     },
     {
         "name": "riirie72",
@@ -657,6 +945,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/eb2754ce-ce9a-45c1-b46d-feb02b924a2b"
     },
     {
+        "name": "Ritsu Kun2261",
+        "reason": "CommandBlockExploit",
+        "xuid": "2535433731109166",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/e15b9822-f9dd-4050-ad98-90fd186b35ac"
+    },
+    {
         "name": "RodDellPvP5621",
         "reason": "CommandBlockExploit",
         "xuid": "2535411344399365",
@@ -673,6 +970,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/f49e372f-aeed-4444-a586-0d7bf527bd05"
+    },
+    {
+        "name": "ryoku9515",
+        "reason": "Nuker",
+        "xuid": "2535431376031270",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/404d79d9-c680-4751-a8c4-895081857626"
     },
     {
         "name": "s5000GT",
@@ -729,6 +1035,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/0c9f5691-265b-44ae-9e48-e974342f4f86"
     },
     {
+        "name": "SidelingGem3742",
+        "reason": "Nuker",
+        "xuid": "2535442760440363",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/28bcbb34-ddc2-4fd9-b784-c74535309a80"
+    },
+    {
         "name": "sirokuma1234893",
         "reason": "Nuker",
         "xuid": "2535447323911622",
@@ -754,6 +1069,24 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/7619b2e1-4051-498e-83cc-0304943ed750"
+    },
+    {
+        "name": "SourCarp1913349",
+        "reason": "Crasher",
+        "xuid": "2535459161996270",
+        "deviceSessionId": "49b582d3-5103-37d6-9bcb-cc698e4ed057",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/af48924b-e4d9-4b34-b950-2b77ff442f63"
+    },
+    {
+        "name": "spyluvme",
+        "reason": "Nuker",
+        "xuid": "2535469334281486",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/d1b9ba01-199e-42bc-90fc-447565434947"
     },
     {
         "name": "StarAttorney249",
@@ -790,6 +1123,15 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/adee2582-247e-4e3a-954d-823cb4ffcc93"
+    },
+    {
+        "name": "syake113",
+        "reason": "IllegalItems",
+        "xuid": "2535469158421259",
+        "deviceSessionId": "8e48d39e-bc49-3b41-82b6-c2bec52adf45",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/44306d80-2d98-49f8-b5ab-89cde336dc5c"
     },
     {
         "name": "TakeMyL",
@@ -846,6 +1188,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/a274b767-dc0d-4e10-b66c-dd363d39869e"
     },
     {
+        "name": "tink0901",
+        "reason": "IllegalItems",
+        "xuid": "2535453575842691",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f9aaca94-c315-4a71-8ed1-cdb62e87fc10"
+    },
+    {
         "name": "TK31493",
         "reason": "CommandBlockExploit",
         "xuid": "2535448864509776",
@@ -853,6 +1204,15 @@
         "uuid": "cc5a2166-f588-3c1d-9f36-f40f5742a016",
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/ffaa2b7b-f1fa-4f87-bef4-72477c374e11"
+    },
+    {
+        "name": "tokiwa 09090",
+        "reason": "Nuker",
+        "xuid": "2535457474308337",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f94101bf-d88d-471a-9094-f7319d4d0d19"
     },
     {
         "name": "tomoJAVAsb5326",
@@ -864,6 +1224,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/da137389-b504-401c-8261-8840caf7a059"
     },
     {
+        "name": "TomomonU",
+        "reason": "IllegalItems",
+        "xuid": "2535420597502614",
+        "deviceSessionId": "62ed8539-32a0-4536-bdc9-51d32541ea22",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/2aef5a7d-c9ae-4c32-bea7-fc440d824d39"
+    },
+    {
         "name": "tomorrow1205",
         "reason": "CommandBlockExploit",
         "xuid": "2535433529090950",
@@ -871,6 +1240,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/4f5ec384-0244-435a-9608-7b4ca0e20847"
+    },
+    {
+        "name": "TootleChips",
+        "reason": "Nuker",
+        "xuid": "2535465284369210",
+        "deviceSessionId": "2c9fbdad-5372-38e5-9a1b-f8c47965b547",
+        "uuid": "af5d38c4-e453-3328-b386-34a9f0fb219c",
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/28a7706e-05ff-4253-95ed-78caf22831c8"
     },
     {
         "name": "Toto7562",
@@ -909,6 +1287,24 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/74da93ff-8553-4169-8fa2-e71be785946d"
     },
     {
+        "name": "Tzyww",
+        "reason": "Crasher",
+        "xuid": "2535422427270059",
+        "deviceSessionId": "7bc7bc74-770c-3a34-ac75-af64eb9cb928",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/8ac9c628-b438-4a1e-b17d-4d35492dc652"
+    },
+    {
+        "name": "uk5509",
+        "reason": "Nuker",
+        "xuid": "2535410980322019",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/53d87810-23f4-4d5a-8693-321a76220908"
+    },
+    {
         "name": "unaa2007",
         "reason": "CommandBlockExploit",
         "xuid": "2535455454586734",
@@ -916,6 +1312,24 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/53ee5642-e83a-43ca-99ca-16d3e191e388"
+    },
+    {
+        "name": "unntidekakingu",
+        "reason": "Nuker",
+        "xuid": "2535451246382324",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/5a1d4e49-ed86-430a-9af6-4c76530ba9d0"
+    },
+    {
+        "name": "useroes846",
+        "reason": "Nuker",
+        "xuid": "2535437754779833",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "TN Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/9ea9d73a-627c-4e7c-a1e9-21b1451cbd13"
     },
     {
         "name": "VacatedApollo44",
@@ -934,6 +1348,15 @@
         "uuid": null,
         "source": "Happiness Balloon Community",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/49701abc-5f7c-48a0-afe5-c769f39c457e"
+    },
+    {
+        "name": "VotedOrca604023",
+        "reason": "Nuker",
+        "xuid": "2535432789965835",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Happiness Balloon Community",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/114650149/c0993eb9-669a-41fd-a8ed-c97acfa9598e"
     },
     {
         "name": "x1xLeox1x7614",
@@ -981,6 +1404,15 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/f5221cf2-032a-4d2a-9a99-8741bb8bfac1"
     },
     {
+        "name": "Yiuki6357",
+        "reason": "IllegalItems",
+        "xuid": "2535471386674955",
+        "deviceSessionId": "0da4aa50-15d5-3ac0-8fbd-9ffe42b2f181",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/877e636c-4262-4d20-b9b3-2e1aa0c76e73"
+    },
+    {
         "name": "yugona3",
         "reason": "Nuker",
         "xuid": "2535427179855269",
@@ -988,6 +1420,15 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/64f9c870-3266-43b9-b22a-a90a58cbdd7c"
+    },
+    {
+        "name": "Yukinariyyy",
+        "reason": "IllegalItems",
+        "xuid": "2535445935163677",
+        "deviceSessionId": "944b6849-56cb-3163-8a77-dd260e39c438",
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/415ca1d6-7c74-4393-914c-4c75a214d726"
     },
     {
         "name": "yukkun23",
@@ -1042,6 +1483,15 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/3ed06e9a-3cd6-4ebb-be8a-964af4a0de81"
+    },
+    {
+        "name": "YUZUGAMI1130",
+        "reason": "Crasher",
+        "xuid": "2535429415658659",
+        "deviceSessionId": null,
+        "uuid": null,
+        "source": "Babel Server",
+        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/cb529c07-95ac-419b-84b3-4e973678ef0e"
     },
     {
         "name": "ZINOAAA",
