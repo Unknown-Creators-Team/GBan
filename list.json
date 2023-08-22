@@ -603,15 +603,6 @@
         "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/157ef42c-e31f-425f-a0b7-2fd3567291bc"
     },
     {
-        "name": "Hikaru30634",
-        "reason": "IllegalItems",
-        "xuid": "2535464220501576",
-        "deviceSessionId": "d1e99f75-97a3-3cea-baee-5fb18acc8d64",
-        "uuid": null,
-        "source": "Babel Server",
-        "proof": "https://github.com/Unknown-Creators-Team/GBan/assets/93137582/2942d430-b5e2-45de-ba8d-3139216451a3"
-    },
-    {
         "name": "hikataku688",
         "reason": "CommandBlockExploit",
         "xuid": "2535456481894269",
