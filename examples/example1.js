@@ -2,11 +2,9 @@
 
 let GBan = [];
 
-fetch(
-    "https://api.github.com/repos/Unknown-Creators-Team/GBan/contents/list.json"
-)
-    .then(response => response.json())
-    .then(json => {
+fetch("https://api.github.com/repos/Unknown-Creators-Team/GBan/contents/list.json")
+    .then((response) => response.json())
+    .then((json) => {
         const list = atob(json.content);
         GBan = JSON.parse(list);
         console.debug(JSON.stringify(GBan, null, 2));
