@@ -9,6 +9,15 @@
         "proof": "https://gban.un-known.xyz/proofs/2535466484732811.png"
     },
     {
+        "name": "merc0ryJP",
+        "reason": "Spammer",
+        "xuid": "2535405326712642",
+        "deviceSessionId": "1334f95c-8c87-33eb-9d5f-e91c7d3952a8",
+        "uuid": "7920fb92-cf72-3fb4-a37d-331bb9fe451d",
+        "source": "Unknown",
+        "proof": "https://gban.un-known.xyz/proofs/2535405326712642.png"
+    },
+    {
         "name": "TenMite36115759",
         "reason": "CommandBlockExploit",
         "xuid": "2535434536224544",
