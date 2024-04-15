@@ -333,6 +333,15 @@
         "proof": "https://gban.un-known.xyz/proofs/2535439068332395.png"
     },
     {
+        "name": "DeathTroy re",
+        "reason": "Fly",
+        "xuid": "2535469673183430",
+        "deviceSessionId": "619fdf0f-e28a-38a1-ac79-74b387be46a6",
+        "uuid": "2987ff0e-c91e-3752-9170-773fcf1c87a3",
+        "source": "arutaka server",
+        "proof": "https://gban.un-known.xyz/proofs/2535469673183430.mp4"
+    },
+    {
         "name": "Dia8500",
         "reason": "Nuker",
         "xuid": "2535438195553500",
@@ -574,6 +583,15 @@
         "uuid": "25829b27-dc54-3253-9987-4f51e6292061",
         "source": "iruka30 server",
         "proof": "https://gban.un-known.xyz/proofs/2535424051534002.png"
+    },
+    {
+        "name": "Harukinau329",
+        "reason": "Fly",
+        "xuid": "2535440103073751",
+        "deviceSessionId": "045e25e7-db10-3b64-9e33-04c9697323db",
+        "uuid": "bf253845-0acd-3a35-911b-b25f24381da1",
+        "source": "Unknown",
+        "proof": "https://gban.un-known.xyz/proofs/2535440103073751.mp4"
     },
     {
         "name": "hennakao9711",
@@ -1447,6 +1465,15 @@
         "uuid": null,
         "source": "TN Server",
         "proof": "https://gban.un-known.xyz/proofs/2535422283969122.png"
+    },
+    {
+        "name": "RegentDuke34366",
+        "reason": "Fly",
+        "xuid": "2535420925314356",
+        "deviceSessionId": "62f7b4b9-0298-3405-808a-0da11071228c",
+        "uuid": "e5d14ec0-0ea0-374a-8c0f-bd6a7640c26d",
+        "source": "Unknown",
+        "proof": "https://gban.un-known.xyz/proofs/2535420925314356.mp4"
     },
     {
         "name": "reimu122",

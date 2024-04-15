@@ -1,5 +1,14 @@
 [
     {
+        "name": "DeathTroy re",
+        "reason": "Fly",
+        "xuid": "2535469673183430",
+        "deviceSessionId": "619fdf0f-e28a-38a1-ac79-74b387be46a6",
+        "uuid": "2987ff0e-c91e-3752-9170-773fcf1c87a3",
+        "source": "arutaka server",
+        "proof": "https://gban.un-known.xyz/proofs/2535469673183430.mp4"
+    },
+    {
         "name": "jetskispeed",
         "reason": "Crasher",
         "xuid": "2535411452954098",
